@@ -1,4 +1,4 @@
-let numeroMaximo = 10;
+let numeroMaximo = 100;
 let intentos = 0;
 let listaNumerosSecretos = [];
 
